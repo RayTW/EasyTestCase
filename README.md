@@ -3,7 +3,7 @@ useing in J2SE 1.4↑ 相容J2SE 1.4版本以上簡易測試程式
 
 
 
-License : MIT
+MIT License
 
 ```code
 Copyright (C) <year> <copyright holders>
